@@ -48,12 +48,12 @@ body: Center(
           }
         else if(result.contains(ConnectivityResult.none))
           {
-            log("============================");
+            log("============Not Connected With Internet================");
             return Column(
 mainAxisAlignment: MainAxisAlignment.spaceEvenly,
               children: [
 
-                Text('  Check Your Device Connected With Internet ,\n                     Check Your Device',style: TextStyle(fontWeight: FontWeight.bold,fontSize: 16),),
+                Text('  Check Your Device Connected With Internet ,\n                     Check Your Device',style: TextStyle(fontWeight: FontWeight.w600,fontSize: 16),),
                 Container(
                   height: height*0.800,
                   width: width*0.800,
