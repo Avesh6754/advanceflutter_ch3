@@ -1,6 +1,5 @@
-Here's a well-structured **README** description for your GitHub repository, explaining the use of the `connectivity_plus` package to check internet connectivity in a Flutter app:  
 
----
+
 
 # 📡 Flutter Internet Connectivity Check using `connectivity_plus`
 
@@ -83,4 +82,27 @@ Feel free to open issues or submit pull requests to improve this project.
 
 ---
 
-This README is well-structured, detailed, and easy to follow. Let me know if you need any modifications! 🚀
+
+
+<p>
+ 
+
+  <img src="https://github.com/user-attachments/assets/d7dcf9e8-c010-44e2-865b-1d48b120e6f8" width="22%" Height="35%">
+  
+  <img src="https://github.com/user-attachments/assets/15d9a2f8-4b1b-44bb-9c7f-6e0389f31a8e" width="22%" Height="35%">
+  </p>
+
+
+
+
+
+
+
+
+https://github.com/user-attachments/assets/a3242196-75bf-4a39-9e4b-6059b491748b
+
+
+
+  
+
+
